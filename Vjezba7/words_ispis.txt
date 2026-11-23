@@ -1,0 +1,7 @@
+razlicitih rijeci: 97
+alice: 3
+the: 9
+of: 6
+her: 5
+and: 4
+in: 4
